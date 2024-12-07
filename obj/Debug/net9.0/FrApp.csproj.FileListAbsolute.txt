@@ -1,0 +1,14 @@
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\bin\Debug\net9.0\FrApp.exe
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\bin\Debug\net9.0\FrApp.deps.json
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\bin\Debug\net9.0\FrApp.runtimeconfig.json
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\bin\Debug\net9.0\FrApp.dll
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\bin\Debug\net9.0\FrApp.pdb
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\FrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\FrApp.AssemblyInfoInputs.cache
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\FrApp.AssemblyInfo.cs
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\FrApp.csproj.CoreCompileInputs.cache
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\FrApp.dll
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\refint\FrApp.dll
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\FrApp.pdb
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\FrApp.genruntimeconfig.cache
+C:\Users\abeba\OneDrive\Desktop\FrApp_Code\FrApp\obj\Debug\net9.0\ref\FrApp.dll
